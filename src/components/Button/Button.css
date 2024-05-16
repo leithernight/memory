@@ -1,0 +1,20 @@
+.size, .restart {
+    padding: 10px;
+    margin-top: 30px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.light .size, .light .restart {
+    background-color: #f4f0e5;
+    border: 1px solid rgb(190, 159, 159);
+    color: #000;
+    transition: all 0.3s ease;
+}
+
+.dark .size, .dark .restart {
+    background-color: #6a6a6a;
+    border: 1px solid rgb(209, 209, 209);
+    color: #fff;
+}
