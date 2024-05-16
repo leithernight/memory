@@ -1,6 +1,6 @@
 {
-  "homepage": "https://leithernight.github.io/memo",
-  "name": "memo",
+  "homepage": "https://leithernight.github.io/memory",
+  "name": "memory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
