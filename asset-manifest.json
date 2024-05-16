@@ -6,7 +6,9 @@
     "index.html": "/memory/index.html",
     "main.07335667.css.map": "/memory/static/css/main.07335667.css.map",
     "main.a49b15b2.js.map": "/memory/static/js/main.a49b15b2.js.map",
-    "453.4930fcbe.chunk.js.map": "/memory/static/js/453.4930fcbe.chunk.js.map"
+    "453.4930fcbe.chunk.js.map": "/memory/static/js/453.4930fcbe.chunk.js.map",
+    "fail.mp3": "/memory/sounds/fail.mp3",
+    "success.mp3": "/memory/sounds/success.mp3"
   },
   "entrypoints": [
     "static/css/main.07335667.css",
